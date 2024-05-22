@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "../../../meu-primeiro-projeto"
+		},
+		{
+			"name": "trilha-java-basico",
+			"path": "../../../meu-primeiro-projeto/trilha-java-basico"
+		},
+		{
+			"name": "conta-banco-dio-java-basico",
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"src"
+		],
+		"java.project.outputPath": "bin",
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar"
+		]
+	}
+}
